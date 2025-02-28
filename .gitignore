@@ -1,4 +1,4 @@
 *.bck
 old_res
 res
-Target_Files/blob0.123456789_targets
+Target_Files/*_targets
